@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Kareem Mohamed</h1>
-<h3 align="center">A passionate Mobile Application Developer | Android</h3>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+native+android+developer" alt="Typing SVG" />
-</a>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Kareem Mohamed</h1>
+<h3 align="center">A passionate Mobile Application Developer</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Native+Android;Kotlin+Multiplatform+%28KMP%29;Flutter" alt="Typing SVG" />
+  </a>
+</p>
 
 <br><br>
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
+
 
 ### ⚡ Info about me
 
